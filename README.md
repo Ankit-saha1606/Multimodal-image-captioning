@@ -66,6 +66,3 @@ See `requirements.txt` for exact versions.
 - [BLIP (Salesforce)](https://huggingface.co/Salesforce/blip-image-captioning-base)
 - [Flickr8k dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
-## License
-
-MIT License — free to use and adapt for research or educational purposes.
