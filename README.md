@@ -29,13 +29,6 @@ Multimodal-image-captioning/
 5. **Decoding** — generate captions at inference time using beam search.
 6. **Evaluation** — score generated captions against references using standard captioning metrics.
 
-## Results
-
-
-
-
-![Training vs validation loss](results/loss_curve.png)
-
 ## Sample outputs
 
 A few example generated captions on held-out images are in [`results/sample_captions/`](results/sample_captions).
