@@ -31,16 +31,8 @@ Multimodal-image-captioning/
 
 ## Results
 
-| Metric   | Single-reference | Multi-reference |
-|----------|-------------------|------------------|
-| BLEU-1   | *[fill in]*        | *[fill in]*       |
-| BLEU-2   | *[fill in]*        | *[fill in]*       |
-| BLEU-3   | *[fill in]*        | *[fill in]*       |
-| BLEU-4   | *[fill in]*        | *[fill in]*       |
-| ROUGE-L  | *[fill in]*        | *[fill in]*       |
-| METEOR   | *[fill in]*        | *[fill in]*       |
 
-Flickr8k provides five reference captions per image, so multi-reference scoring generally aligns better with human judgment than scoring against a single caption — worth noting if your single- vs. multi-reference numbers diverge.
+
 
 ![Training vs validation loss](results/loss_curve.png)
 
